@@ -1,0 +1,16 @@
+Create a full screen console based chat in Python. Please use Prompt Toolkit (https://github.com/prompt-toolkit/python-prompt-toolkit/tree/master) or similiar library. 
+
+Main features are:
+* Full screen console interface
+* Support two scrollable panels, one for user input, one for chat outputs
+* Automatically capture all inputs and outputs, and save into local files
+* Support build-in commands. And support auto-completion while user types in input panel
+* Support pretty formats on output, include colored text, HTML or markdown format, and pretty json format
+
+A success delivery should include:
+* Full working code base
+* Unit Tests
+* Packaging and GitActions for Python pip package distribution
+* A readme.md file
+
+Should you have any questions, please do not hesitate to contact us. 
